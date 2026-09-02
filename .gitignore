@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.python-libs/
+.pytest_cache/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
